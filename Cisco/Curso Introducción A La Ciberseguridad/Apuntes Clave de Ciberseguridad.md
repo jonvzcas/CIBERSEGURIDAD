@@ -113,7 +113,7 @@ PARA TRABAJAR
 
 [👆](#temario)
 
-## FAQ
+## GLOSARIO
 
 + Cluster: grupo de servidores vinculados que proporcionan almacenamiento de datos, bases de datos, redes y software a través de Internet.
 
