@@ -2,6 +2,7 @@
 1. [GIT](#git)
     * [Configuración global](#configuración-global) 
     * [Subir un repositorio local a GitHub](#subir-un-repositorio-local-a-github)
+    * [Mostrar los mensajes de los últimos commits](#mostrar-los-mensajes-de-los-últimos-commits)
 1. [GLOSARIO](#glosario)
 
 
@@ -56,10 +57,23 @@ git push -f -u origin main
 
 [👆](#temario)
 
+## Mostrar los mensajes de los últimos commits
 
-# GLOSARIO
+git log
 
+ó 
 
+git log -n 5 mostrará los últimos 5 commits
+
+ó 
+
+git log -1 para mostrar el mensaje del último commit
+
+[👆](#temario)
+
+## GLOSARIO
+
+**[A](#a)** - **[B](#b)** - **[C](#c)** - **[D](#d)** - **[E](#e)** - **[F](#f)** - **[G](#g)** - **[H](#h)** - **[I](#i)** - **[J](#j)** - **[K](#k)** - **[L](#l)** - **[M](#m)** - **[N](#n)** - **[Ñ](#ñ)** - **[O](#o)** - **[P](#p)** - **[Q](#q)** - **[R](#r)** - **[S](#s)** - **[T](#t)** - **[U](#u)** - **[V](#v)** - **[W](#w)** - **[X](#x)** - **[Y](#y)** - **[Z](#z)**
 
 
 [👆](#temario)

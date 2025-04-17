@@ -9,7 +9,7 @@ CONSIGNA: Responder rápidamente y minimizar el impacto.
 1. [CONSECUENCIAS DE UNA VIOLACION DE SEGURIDAD](#consecuencias-de-una-violación-de-seguridad)
 1. [ALGUNAS PRÁTICAS MEJORADAS DE SEGURIDAD PARA EVITAR LA VIOLACIÓN DE DATOS](#algunas-práticas-mejoradas-de-seguridad-para-evitar-la-violación-de-datos)
     * [Algoritmos de salado](#algoritmos-de-salado) 
-1. [FAQ](#faq)
+1. [GLOSARIO](#glosario)
 
     
 
@@ -107,17 +107,27 @@ Recomendaciones
     La sal de contraseña debe ser aleatoria, larga, compleja e imposible de predecir.
     Se debe generar una nueva sal cada vez que un usuario cambie su contraseña o cree una nueva cuenta.
 
-PARA TRABAJAR
+PARA TRABAJAR: 
 
-    Registrar hallazgos (brechas de seguridad)
+* Lectura adicional, luego
+* Completar hallazgos en lab-what-was-taken.pdf 
 
 [👆](#temario)
 
 ## GLOSARIO
 
+**[A](#a)** - **[B](#b)** - **[C](#c)** - **[D](#d)** - **[E](#e)** - **[F](#f)** - **[G](#g)** - **[H](#h)** - **[I](#i)** - **[J](#j)** - **[K](#k)** - **[L](#l)** - **[M](#m)** - **[N](#n)** - **[Ñ](#ñ)** - **[O](#o)** - **[P](#p)** - **[Q](#q)** - **[R](#r)** - **[S](#s)** - **[T](#t)** - **[U](#u)** - **[V](#v)** - **[W](#w)** - **[X](#x)** - **[Y](#y)** - **[Z](#z)**
+
+
+### C
+
 + Cluster: grupo de servidores vinculados que proporcionan almacenamiento de datos, bases de datos, redes y software a través de Internet.
 
+### D
+
 + DDoS: ataques de denegación de servicios distribuidos. Se produce cuando varios dispositivos infectados con malware inundan recursos de un sistema objetivo.
+
+### E
 
 + Exploit: software malicioso que aprovecha errores de un sistema para robar información, instalar malware, o tomar control de un ordenador.
 
