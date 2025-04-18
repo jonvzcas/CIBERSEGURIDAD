@@ -34,6 +34,50 @@ Para ello deberemos
 
 [👆](#temario)
 
-Continuar en : 7. Soporte
+### 7. Soporte
 
-https://www.normaiso27001.es/
+En este apartado la norma nos prescribe determinar los recursos necesarios para implementar los planes que hemos realizado en el apartado anterior 6. Planificación, siempre teniendo en cuenta el compromiso de la dirección en proveer los recursos necesarios
+
+Por tanto deberemos tener en cuenta
+
+    La gestión de los recursos.
+    La competencia y concienciación del personal
+    La comunicación y concienciación de todas las de todas las partes interesadas, incluyendo proveedores externos
+    Los requisitos de documentación como evidencia del cumplimiento de los requisitos de la norma
+
+[👆](#temario)
+
+### 8. Operacion
+
+Este es el capítulo donde ponemos en marcha las medidas para la seguridad de la información que hemos definido en los capítulos anteriores en concreto
+
+    4. El contexto de la organización (identificación de intereses de las partes)
+    6. Planificación (Plan de tratamiento de riesgos)
+
+En este capítulo los requisitos estarán orientados al seguimiento y supervisión de los planes de tratamiento de riesgos y su integración en los procesos.
+
+[👆](#temario)
+
+### 9. Evaluación del desempeño
+
+Como parte fundamental de cualquier sistema de Gestión deberemos evaluar el desempeño de las acciones emprendidas.
+
+Para ello se cuenta con las siguientes herramientas:
+
+    Auditorías internas de Seguridad de la información
+    Proceso de revisión por parte de la dirección
+
+[👆](#temario)
+
+### 10. Mejora
+
+La mejora del sistema de gestión de la seguridad de la información nos refiere a la actualización continua del sistema de gestión
+
+Esto incluye la revisión permanente para encontrar oportunidades de mejora aprendiendo por un lado de los errores cometidos.
+
+ACCIONES CORRECTIVAS
+
+En este apartado tenemos los requisitos para el tratamiento de las No Conformidades como herramienta para la mejora continua además de las ya vistas como la Auditoria Interna y la revisión por la dirección.
+
+SEGUIR EN https://www.normaiso27001.es/objeto-y-campo-de-aplicacion/
+

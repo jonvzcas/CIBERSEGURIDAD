@@ -3,6 +3,8 @@
     * [Configuración global](#configuración-global) 
     * [Subir un repositorio local a GitHub](#subir-un-repositorio-local-a-github)
     * [Mostrar los mensajes de los últimos commits](#mostrar-los-mensajes-de-los-últimos-commits)
+1. [VIRTUALBOX](#virtualbox)
+    * [Instalar Guest Additions desde repositorios](#instalar-guest-additions-desde-repositorios)
 1. [GLOSARIO](#glosario)
 
 
@@ -68,6 +70,16 @@ git log -n 5 mostrará los últimos 5 commits
 ó 
 
 git log -1 para mostrar el mensaje del último commit
+
+[👆](#temario)
+
+# VIRTUALBOX
+
+## Instalar Guest Additions desde repositorios
+
+sudo apt-get install virtualbox-guest-additions-iso
+
+La archivo de imagen .iso de la guest additions CD se instala en la ruta /usr/share/virtualbox/VBoxGuestAdditions.iso. 
 
 [👆](#temario)
 
