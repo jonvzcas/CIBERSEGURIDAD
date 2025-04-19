@@ -27,7 +27,7 @@ www.catalog.update.microsoft.com
 
 ## COMANDOS
 
-* Mostrar el rastreados de eventos (_para apagado_): Alt + F4
+* Mostrar el rastreador de eventos (_para apagado_): Alt + F4
 * Mostrar la versión instalada de Windows Server: DISM /online /Get-CurrentEdition
 * Activar la versión de Windows: DISM /online /Set-Edition:ServerStandard /ProductKey:VDYBN-27WPP-V4HQT-9VMD4-VMK7H /AcceptEula
 * Cambiar la clave del producto: slmgr ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX

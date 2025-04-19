@@ -1,6 +1,15 @@
 # TEMARIO
 1. [2 Procesos sobre la seguridad de la información](#2-procesos-sobre-la-seguridad-de-la-información)
 1. [6. Planificación](#6-planificación)
+1. [7. Soporte](#7-soporte)
+1. [8. Operación](#8-operacion)
+1. [9. Evaluación del desempeño](#9-evaluación-del-desempeño)
+1. [8. Mejora](#10-mejora)
+1. [1. Alcance y Campo de Aplicación de SGSI](#1-alcance-y-campo-de-aplicación-de-sgsi)
+1. [3. Términos y definiciones](#3-términos-y-definiciones)
+    + [3.1 Control de Acceso](#31-control-de-acceso)
+    + [3.2 Ataque](#32-ataque)
+    + [3.3. Auditoria](#33-auditoria)
 
 ---
 
@@ -79,5 +88,43 @@ ACCIONES CORRECTIVAS
 
 En este apartado tenemos los requisitos para el tratamiento de las No Conformidades como herramienta para la mejora continua además de las ya vistas como la Auditoria Interna y la revisión por la dirección.
 
-SEGUIR EN https://www.normaiso27001.es/objeto-y-campo-de-aplicacion/
+[👆](#temario)
+
+## 1. Alcance y Campo de Aplicación de SGSI
+
+El alcance permite definir que información vamos a proteger. Sin importar dónde, cómo, quién acceda a esta información.
+
+### Beneficios de definir el alcance del SGSI
+
+El alcance del SGSI puede reducir su costo inicial en recursos, o potencialmente, aumentarlo.
+
+Podemos pensar que un SGSI que es capaz de desplegarse en una sola ubicación, puede ciertamente implementarse en múltiples partes, pero debido a que las redes de datos pueden ser compartidas por toda la organización así como otros recursos he instalaciones, conviene definir el alcance mediante un estudio de la situación y asesorándose con expertos.
+
+La viabilidad y la sensibilidad de limitar el alcance del SGSI dependerá en gran medida de las características específicas de la organización.
+
+El punto clave es que, con un alcance limitado, los activos de la organización fuera del alcance deben tratarse de la misma manera que los proveedores externos a la empresa.
+
+### Sugerencia
+
+La organización debe determinar primero lo que necesita para que tenga los mayores beneficios ante una implantación de un SGSI según ISO27001 y luego trabajar desde allí para identificar a las personas, procesos, sistemas y datos que deben ser incluidos en el alcance del SGSI.
+
+[👆](#temario)
+
+## 3. Términos y definiciones
+
+### 3.1 Control de Acceso
+
+Medios para garantizar que el acceso a los activos esté autorizado y restringido según los requisitos comerciales y de seguridad.
+
+### 3.2 Ataque
+
+Intentar destruir, exponer, alterar, deshabilitar, robar u obtener acceso no autorizado o hacer un uso no autorizado de un activo.
+
+### 3.3. Auditoria
+
+Proceso sistemático, independiente y documentado para obtener evidencia de auditoría y evaluarla objetivamente para determinar hasta qué punto se cumplen los criterios de auditoría.
+
+[👆](#temario)
+
+SEGUIR EN https://www.normaiso27001.es/referencias-normativas-iso-27000/#def355
 
